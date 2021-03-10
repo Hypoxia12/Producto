@@ -1,0 +1,43 @@
+﻿body {
+    background-image: url("Imagenes/Textura.jpg");
+}
+
+h1 {
+    font-size: 50px;
+    background-size: 100%;
+    background-image: url("imagenes/tonos.jpg");
+    color: #ffffff;
+    text-align: center;
+    border-style: solid;
+    border-width: 20px;
+    border-color: lawngreen;
+    border-radius: 150px;
+    margin: 150px;
+    padding: 50px 25px 50px 25px;
+}
+
+p.definicion {
+    font-size: 20px;
+    text-align: center;
+    color: #ffffff;
+    background-color: black;
+    border-style: solid;
+    border-width: 10px;
+    border-color: lawngreen;
+    border-radius: 150px;
+    margin: 150px;
+    padding: 50px 25px 50px 25px;
+}
+
+p.nombre {
+    font-size: 50px;
+    text-align: center;
+    color: #ffffff;
+    background-color: black;
+    border-style: solid;
+    border-width: 10px;
+    border-color: lawngreen;
+    border-radius: 150px;
+    margin: 150px;
+    padding: 50px 25px 50px 25px;
+} 
