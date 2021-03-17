@@ -1,0 +1,46 @@
+﻿body {
+    background-image: url("Imagenes/Textura.jpg");
+}
+
+h1 {
+    font-family: Roboto Mono, Chango, Roboto;
+    font-size: 50px;
+    background-size: 100%;
+    background-image: url("Imagenes/tonos.jpg");
+    color: #ffffff;
+    text-align: center;
+    border-style: solid;
+    border-width: 20px;
+    border-color: lawngreen;
+    border-radius: 150px;
+    margin: 150px;
+    padding: 50px 25px 50px 25px;
+}
+
+.uno {
+    font-family: Ranchers, Roboto, Syne Mono;
+    font-size: 20px;
+    text-align: center;
+    color: #ffffff;
+    background-color: black;
+    border-style: solid;
+    border-width: 10px;
+    border-color: lawngreen;
+    border-radius: 150px;
+    margin: 150px;
+    padding: 50px 25px 50px 25px;
+}
+
+.dos {
+    font-family: Oswald, Recursive, Roboto;
+    font-size: 50px;
+    text-align: center;
+    color: #ffffff;
+    background-color: black;
+    border-style: solid;
+    border-width: 10px;
+    border-color: lawngreen;
+    border-radius: 150px;
+    margin: 150px;
+    padding: 50px 25px 50px 25px;
+} 
