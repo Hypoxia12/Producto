@@ -1,0 +1,118 @@
+﻿body {
+    HOLA: (CLASE . id #);
+    background-image: url(Imagenes/fondo.jpg);
+}
+
+#msgError {
+    width: 100%;
+}
+
+#tit {
+    font-family: Impact;
+    font-weight: lighter;
+    font-size: 24pt;
+}
+
+#navbarDropdown {
+    color: white;
+    font-family: 'Bodoni MT';
+    font-weight: lighter;
+}
+
+#navbarSupportedContent {
+    background-color: #1e1e1e;
+   
+}
+
+#botonbusqueda {
+    background-color: #1e1e1e;    
+}
+
+#fondo {
+    background-image: url("Imagenes/JPG/fondo.jpg");
+}
+
+#espacio_publicidad {
+    margin-right: 50px;
+    margin-left: 50px;
+}
+
+#cuerpo {   
+    margin-right: 50px;
+    margin-left: 50px;
+}
+
+.enlaces_juegos {
+    border: hidden
+}
+
+#seccion_titulo {
+    margin-top: 10px;
+}
+
+#seccion_titulo2 {
+    margin-top: 10px;
+    transform: translate(0px,-130px);
+}
+
+#titulares {
+    float: left;
+    font-size: 16pt;
+    font-family: 'Bodoni MT';
+    font-weight: lighter;
+    margin-top: 5px;
+    width: 500px;
+    height: 50px;
+    margin-left: 15px;
+    color: #ffffff;
+}
+
+
+
+
+
+#icono {
+    margin-left: 25px;
+    float: left;
+    width: 40px;
+    height: 40px;
+    color: #ffffff;
+}
+
+#reset {
+    clear:both;
+}
+
+#miniaturas_juegos {
+    width: 100%;
+    height: 100%;
+}
+
+
+
+#barra {
+    padding-top: 40px;
+    align-content: center;   
+}
+
+
+
+#publi_cuad {
+    width: 100%;
+    height: 100%;
+    
+}
+
+.NombreCartelera {
+    font-size: 12px;
+    font-family: Helvetica;
+    font-weight: bold;
+   
+}
+
+#carrusel {
+    margin-right: 75px;
+    margin-left: 75px;
+}
+
+
